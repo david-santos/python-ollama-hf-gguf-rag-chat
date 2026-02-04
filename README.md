@@ -146,6 +146,3 @@ python-ollama-hf-gguf-rag-chat/
 | Vector Store | langchain-postgres | PGVector |
 | Configuration | pydantic-settings | application.properties |
 
-## License
-
-MIT
